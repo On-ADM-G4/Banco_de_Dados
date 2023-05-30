@@ -1,0 +1,13 @@
+TODO ESSE TUTORIAL É PARA WINDOWS, SE TIVER CONHECIMENTO DE LINUX E CONSEGUIR APLICAR AS PEQUENAS ALTERAÇÕES, NÃO SÃO MUITAS, VAI
+CONSEGUIR RODAR A APLICAÇÃO EM LINUX FACILMENTE.
+
+É aconselhavel que você crie um ambiente virtual para que não instale pacotes que você não vá utilizar depois...
+
+Para fazer um ambiente virtual é só digitar no terminal 'python -m venv venv'
+para ativar o ambiente virtual é só digitar no terminal './venv/Scripts/activate
+Para desativar o ambiente virtual digite no terminal ./Scripts de enter e em seguida digite deactivate.bat ou sem o '.bat' e de enter
+
+
+Para instalar as dependencias do requirements.txt basta abrir um terminal, digitar 'pip install -r requirements.txt' e dar 'enter'
+se der algum erro tente pip install -r ./requirements.txt
+
